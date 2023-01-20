@@ -60,8 +60,6 @@ int main() {
         default:
             puts("Invalid grade.");
     }
-
-    return 0;
-}
+    
     return 0;
 }
